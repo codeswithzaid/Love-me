@@ -14,5 +14,5 @@ This project is designed just for fun, learning, or maybe… sending a secret me
 ## 🔧 How to Run
 
 1. Clone the repository:
- Live preview- 
+ Live preview- https://codeswithzaid.github.io/Love-me/
    
